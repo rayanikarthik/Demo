@@ -3,7 +3,7 @@ package org.model;
 public class Circle {
 	
 	public String name;
-	public String number;
+	public String phone_number;
 	public String email_id;
 
 	public String getName() {
