@@ -4,7 +4,7 @@ public class Circle {
 	
 	public String name;
 	public String number;
-	public String email;
+	public String email_id;
 
 	public String getName() {
 		return name;
