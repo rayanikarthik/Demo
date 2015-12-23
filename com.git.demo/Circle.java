@@ -15,6 +15,7 @@ public class Circle {
 	public void setName(String name) {
 		this.name = name;
 		this.Email_id=name;
+		//fdmkdngknfknfekm
 	}
 
 
