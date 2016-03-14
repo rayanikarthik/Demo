@@ -14,7 +14,7 @@ public class Circle {
 
 	public void setName(String name) {
 		this.userName = name;
-		this.Email_id=name;
+		this.user_Email_id=name;
 	}
 
 
