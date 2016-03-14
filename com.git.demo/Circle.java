@@ -13,7 +13,7 @@ public class Circle {
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.user_name = name;
 		this.Email_id=name;
 	}
 
